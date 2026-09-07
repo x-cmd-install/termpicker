@@ -5,13 +5,13 @@ about:
   head: b915437
   archived: false
   latestVersion: "v1.5.2"
-  collectedAt: 2026-09-07T06:00:45Z
+  collectedAt: 2026-09-07T18:28:11Z
 timeline:
   created: 2024-11-23
   lastCommit: 2026-06-24
   lastRelease: 2026-06-24
 popularity:
-  star: 95
+  star: 96
   watcher: 2
   fork: 1
   release: 18
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 2
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 1
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 2
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 3
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 5
     openIssue: 1
-    commit: 12
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 18
@@ -81,7 +81,7 @@ total:
   commit: 150
 ---
 path: /home/runner/.x-repo/github.com/ChausseBenjamin/termpicker
-collectedAt: 2026-09-07T06:00:54Z
+collectedAt: 2026-09-07T18:28:12Z
 loc:
   Go:
     code: 2587
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:57+00:00
+  collectedAt: 2026-09-07T18:28:14+00:00
   platform:
     darwin/arm64:
       name:  termpicker_Darwin_arm64.tar.gz
