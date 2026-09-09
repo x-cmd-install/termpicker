@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2255270,
       "digest": "sha256:5538925cc09a0ecb9862d9e490c8ad2ba12487f057988ba5056251c82f76b6da",
-      "download_count": 95,
+      "download_count": 98,
       "created_at": "2026-06-24T20:38:06Z",
       "updated_at": "2026-06-24T20:38:08Z",
       "browser_download_url": "https://github.com/ChausseBenjamin/termpicker/releases/download/v1.5.2/termpicker_Linux_x86_64.tar.gz"
