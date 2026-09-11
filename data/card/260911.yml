@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.2"
   latestRelease: "v1.5.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:57:11Z
+  collectedAt: 2026-09-11T19:05:27Z
 timeline:
   created: 2024-11-23
   lastCommit: 2026-06-24
@@ -85,7 +85,7 @@ total:
   commit: 150
 ---
 path: /home/runner/.x-repo/github.com/ChausseBenjamin/termpicker
-collectedAt: 2026-09-11T05:57:12Z
+collectedAt: 2026-09-11T19:05:29Z
 loc:
   Go:
     code: 2587
