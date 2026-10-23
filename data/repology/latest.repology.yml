@@ -1,0 +1,25 @@
+- repo: aur
+  srcname: termpicker-bin
+  binname: termpicker-bin
+  visiblename: termpicker-bin
+  version: 1.5.2
+  origversion: 1.5.2-1
+  status: unique
+  summary: A color picker for the terminal
+  maintainers:
+    - dominiquini@aur
+    - chaussebenjamin@aur
+  licenses:
+    - beerware
+- repo: aur
+  srcname: termpicker-git
+  binname: termpicker-git
+  visiblename: termpicker-git
+  version: v1.5.2
+  origversion: v1.5.2-1
+  status: rolling
+  summary: A color picker for the terminal
+  maintainers:
+    - chaussebenjamin@aur
+  licenses:
+    - beerware
