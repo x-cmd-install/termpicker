@@ -4,7 +4,7 @@
   visiblename: termpicker-bin
   version: 1.5.2
   origversion: 1.5.2-1
-  status: unique
+  status: newest
   summary: A color picker for the terminal
   maintainers:
     - dominiquini@aur
@@ -23,3 +23,14 @@
     - chaussebenjamin@aur
   licenses:
     - beerware
+- repo: nix_unstable
+  srcname: termpicker
+  visiblename: termpicker
+  version: 1.5.2
+  origversion: null
+  status: newest
+  summary: Color picker for the terminal
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - Beerware
