@@ -37,22 +37,22 @@ Total: **2,650** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 97 · **Forks**: 1 · **Open issues**: 13 · **Contributors**: 4
+- **Stars**: 98 · **Forks**: 1 · **Open issues**: 14 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 150
+- **Releases**: 18 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 2 · **Commits**: 150
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 1 | 2 | 0 | 1 | 0 | 2 |
-| 360d | 2025-11-20 | 1 | 2 | 0 | 5 | 1 | 2 |
-| last720d | 2024-11-25 | 17 | 15 | 0 | 12 | 1 | 78 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-20 | 1 | 2 | 0 | 1 | 1 | 2 |
+| 360d | 2025-11-21 | 1 | 2 | 0 | 5 | 2 | 2 |
+| last720d | 2024-11-26 | 15 | 8 | 0 | 12 | 2 | 71 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for termpicker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:01:21Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:24:24Z._
